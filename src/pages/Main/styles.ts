@@ -67,6 +67,7 @@ export const InputContent = styled.div`
 
     &::placeholder{
       color: #a8a8b3;
+      font-size: 12px;
     }
   }
 `
